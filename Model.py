@@ -1,6 +1,7 @@
 import joblib
 import pandas as pd
 
+
 # Load the saved Random Forest model
 rf_model = joblib.load('random_forest_model.pkl')
 
