@@ -1,1 +1,1 @@
-# India AI-CyberGuard AI-Hackathon
+# IndiaAI CyberGuard AI Hackathon
