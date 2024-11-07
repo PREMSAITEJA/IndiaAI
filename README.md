@@ -1,7 +1,6 @@
 # IndiaAI CyberGuard AI Hackathon
 
-# Problem Statement: Develop an NLP model that categorizes complaint based on victim, type of fraud and other relevant parameters used for text classification and 
-preparing the final model. 
+# Problem Statement: Develop an NLP model that categorizes complaint based on victim, type of fraud and other relevant parameters used for text classification and preparing the final model. 
 
 # Impact
 The development of this NLP model for text analytics and classification has significant potential to streamline and improve complaint management systems. By categorizing complaints based on factors such as victim type, fraud type, and other relevant parameters, this model:
