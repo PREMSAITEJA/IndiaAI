@@ -86,7 +86,7 @@ For more details or questions, feel free to reach out at [parthakre114@gmail.com
 # Team Members
 * Parth Thakre: parthakre114@gmail.com - Leader
 * Shreeharsh Shivpuje: Shreeharsh.shivpuje.ss@gmail.com
-* Atharva Bhajan: atharvabhajan0574@gmail.com
+* Atharva P. Bhajan: atharvabhajan0574@gmail.com
 * Aditi Patil: aditikpatil@gmail.com
 * Aishwary Gathe: aishwarygathe@gmail.com
 
