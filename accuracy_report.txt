@@ -1,24 +1,24 @@
-Accuracy: 0.86
+Accuracy: 0.72
 
 Classification Report:
                                                       precision    recall  f1-score   support
 
-                               any other cyber crime       0.98      0.68      0.80     10727
-child pornography cpchild sexual abuse material csam       0.00      0.00      0.00       374
-                                cryptocurrency crime       0.99      0.70      0.82       477
-                      cyber attack/ dependent crimes       1.00      1.00      1.00      3608
-                                     cyber terrorism       0.94      0.64      0.76       160
-      hacking  damage to computercomputer system etc       0.99      0.68      0.80      1682
-               online and social media related crime       0.75      0.85      0.79     11877
-                            online cyber trafficking       0.97      0.48      0.64       180
-                              online financial fraud       0.86      1.00      0.92     56718
-                            online gambling  betting       1.00      0.56      0.72       438
-                                          ransomware       1.00      0.57      0.73        56
-           rapegang rape rgrsexually abusive content       0.00      0.00      0.00      2816
-                             report unlawful content       0.00      0.00      0.00         1
-                               sexually explicit act       0.00      0.00      0.00      1530
-                           sexually obscene material       0.00      0.00      0.00      1819
+                               any other cyber crime       0.68      0.08      0.15      3624
+child pornography cpchild sexual abuse material csam       0.00      0.00      0.00       121
+                      crime against women & children       0.00      0.00      0.00         4
+                                cryptocurrency crime       0.94      0.10      0.19       165
+                      cyber attack/ dependent crimes       1.00      1.00      1.00      1261
+                                     cyber terrorism       0.00      0.00      0.00        51
+      hacking  damage to computercomputer system etc       0.67      0.07      0.12       580
+               online and social media related crime       0.57      0.56      0.57      4066
+                            online cyber trafficking       0.00      0.00      0.00        61
+                              online financial fraud       0.73      0.98      0.84     18660
+                            online gambling  betting       0.00      0.00      0.00       133
+                                          ransomware       0.00      0.00      0.00        18
+           rapegang rape rgrsexually abusive content       0.00      0.00      0.00       911
+                               sexually explicit act       0.00      0.00      0.00       529
+                           sexually obscene material       0.00      0.00      0.00       658
 
-                                            accuracy                           0.86     92463
-                                           macro avg       0.63      0.48      0.53     92463
-                                        weighted avg       0.81      0.86      0.82     92463
+                                            accuracy                           0.72     30842
+                                           macro avg       0.31      0.19      0.19     30842
+                                        weighted avg       0.66      0.72      0.65     30842
